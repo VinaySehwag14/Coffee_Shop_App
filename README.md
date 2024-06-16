@@ -77,3 +77,17 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- 
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/306e4395-04cc-4273-9da4-2fbb220613bc)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/65edbae2-d2e5-40c2-aef6-aec00cd9c96f)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/d68a32ef-74db-4e31-9670-55d9e0d6214e)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/23342581-e88c-4702-9ffc-f1d580dd4994)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/9396950d-720e-4d13-88f8-6611adb79a07)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/908d64f4-0858-41e5-a0c4-9ed64d8cbd53)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/48a5c80d-a7e5-4d8e-8279-10b32a47a8b2)
+![image](https://github.com/VinaySehwag14/Coffee_Shop_App/assets/55314386/e54292a6-ef8b-4a24-9fdf-5ea2fbedb074)
+
+
+
+
+
